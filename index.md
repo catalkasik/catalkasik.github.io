@@ -3,7 +3,8 @@
 <center><fash line-height: 1;> Çatal Kaşık </fash></center>
 
 **Silinmesinden kaygı duyarak kalıcılaş-
-tırmaya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.**  
+tırmaya çalıştığım araç mahiye-
+tindeki kimi GitHub repositorylerini forkladım.**  
 
 ___
 
