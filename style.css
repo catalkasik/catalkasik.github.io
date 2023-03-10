@@ -100,6 +100,12 @@
 		word-break: normal;
 	}
 
+	hr {
+		border: none;
+		height: 2px;
+		background-color: WhiteSmoke;
+	}
+
 	fash {
 		color: WhiteSmoke;
 		line-height: 0.8;
