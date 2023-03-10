@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-+ [Twemoji tabanlı css](/emoji-css)  
+[Twemoji tabanlı css](/emoji-css)  
 
 **Harita işaretleyiciler**  
 └[Avrupa](/euvisited)  
