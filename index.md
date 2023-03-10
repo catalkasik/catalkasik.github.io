@@ -2,8 +2,8 @@
 
 <center><fash style="line-height: 1";> Çatal Kaşık </fash></center>
 
-**Silinmesinden kaygı duyarak kalıcılaş-
-tırmaya çalıştığım araç mahiye-
+**Silinmesinden kaygı duyarak kalıcılaştırma-
+ya çalıştığım araç mahiye-
 tindeki kimi GitHub repositorylerini forkladım.**  
 
 ___
