@@ -4,6 +4,7 @@
 + [Avrupa haritası işaretleyici](/euvisited)  
 + [Türkiye haritası işaretleyici](/turkeyvisited)  
 
-+ [Reklam engelleyicim ne kadar çalışıyor?](/toolz/adblock.html)  
-+ [Tarayıcım hangi yazı tiplerini destekliyor?](https://catalkasik.github.io/toolz/fontlist.html)  
 + [toolz](/toolz)  
+ + [Reklam engelleyicim ne kadar çalışıyor?](/toolz/adblock.html)  
+ + [Tarayıcım hangi yazı tiplerini destekliyor?](https://catalkasik.github.io/toolz/fontlist.html)  
+
