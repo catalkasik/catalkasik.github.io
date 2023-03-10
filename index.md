@@ -2,7 +2,7 @@
 
 <center><fash> Çatal Kaşık </fash></center>
 
-**Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.**
+**Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.**  
 ___
 
 [Twemoji tabanlı css](/emoji-css)  
