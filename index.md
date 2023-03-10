@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-**GitHub'da silinmesinden korkup kalıcılaştırmaya çalıştığım kimi repositoryleri çatalladım. _fork_**
+**GitHub'da silinmesinden korkup kalıcılaştırmaya çalıştığım kimi repositoryleri çatal_(fork)_ladım.**
 
 [Twemoji tabanlı css](/emoji-css)  
 
