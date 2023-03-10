@@ -5,6 +5,7 @@
 <style>
 
 	p {
+		color: pink;
 		text-align: justify;
 		word-break: break-all;
 		word-wrap: break-all; 
