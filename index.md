@@ -1,8 +1,10 @@
 <link href="style.css" rel="stylesheet">
 
 + [Twemoji tabanlı css](/emoji-css)  
-+ [Avrupa haritası işaretleyici](/euvisited)  
-+ [Türkiye haritası işaretleyici](/turkeyvisited)  
+
+**Harita işaretleyiciler**
++ [Avrupa](/euvisited)  
++ [Türkiye](/turkeyvisited)  
 
 + [toolz](/toolz)  
  + [Reklam engelleyicim ne kadar çalışıyor?](/toolz/adblock.html)  
