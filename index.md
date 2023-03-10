@@ -1,3 +1,6 @@
+<html lang="tr"></html>
+
+
 <link href="style.css" rel="stylesheet">
 
 <style>
