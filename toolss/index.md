@@ -3,11 +3,13 @@
 <style>
 	body {
 		background: .pattern-zigzag-md;
+	}
 
 	a {
 		text-decoration: none;
 		color: hotpink;
 	}
+
 </style>
 
 
