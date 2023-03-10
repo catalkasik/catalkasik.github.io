@@ -1,6 +1,9 @@
 <style>
 	a {
-		text-decoration: nones
+		text-decoration: none;
+		color: ;
+	}
+</style>
 
 
 [kaynak](https://trolologuy.github.io/useful-tools/)
