@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-**GitHub'da silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım kimi repositoryleri çatal_(fork)_ladım.**
+**GitHub'da silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım kimi repositoryleri çatal _(fork)_ ladım.**
 
 ___
 
