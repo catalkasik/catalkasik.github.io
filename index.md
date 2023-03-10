@@ -2,7 +2,7 @@
 
 <fash> Çatal Kaşık </fash>
 
-**GitHub'da silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım kimi repositoryleri çatal _(fork)_ladım.**
+**Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım kimi GitHub  repositorylerini çatal _(fork)_ladım.**
 
 ___
 
