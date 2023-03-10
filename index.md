@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-<center><fash> Çatal Kaşık </fash>
+<center><fash> Çatal Kaşık </fash></center>
 
 **Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.**
 ___
