@@ -13,16 +13,6 @@
 		color: #f0eaea;
 		font-family: "Quicksand", sans-serif;
 		margin: 0 5% 0 5%;
-		text-align: justify;
-		word-break: break-all;
-		word-wrap: break-all; 
-		word-spacing: 4px;
-		hyphens: auto;
-  		-moz-hyphens: auto;
-  		-webkit-hyphens: auto;
-  		-ms-word-break: break-all;
-		  word-wrap: break-all; 
-	  	-webkit-hyphenate-character: '-';
 	}
 
 	ul { list-style: none; } /* Remove default bullets */
