@@ -1,3 +1,10 @@
+<style>
+	a {
+		text-decoration: nones
+
+
+[kaynak](https://trolologuy.github.io/useful-tools/)
+
 ---
 sidebar: auto
 sidebarDepth: 2
