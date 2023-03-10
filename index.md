@@ -1,4 +1,4 @@
-<html lang="en"></html>
+<html lang="tr"></html>
 <link href="style.css" rel="stylesheet">
 
 <center><fash style="line-height: 1";> Çatal Kaşık </fash></center>
