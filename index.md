@@ -3,8 +3,8 @@
 + [Twemoji tabanlı css](/emoji-css)  
 
 **Harita işaretleyiciler**
-+ [Avrupa](/euvisited)  
-+ [Türkiye](/turkeyvisited)  
+[Avrupa](/euvisited)
+[Türkiye](/turkeyvisited)  
 
 + [toolz](/toolz)  
  + [Reklam engelleyicim ne kadar çalışıyor?](/toolz/adblock.html)  
