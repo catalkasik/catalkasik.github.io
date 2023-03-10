@@ -21,6 +21,7 @@
   		-moz-hyphens: auto;
   		-webkit-hyphens: auto;
   		-ms-word-break: break-all;
+		  word-wrap: break-all; 
 	  	-webkit-hyphenate-character: '-';
 	}
 
