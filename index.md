@@ -1,6 +1,21 @@
-<html lang="tr"></html>
-
 <link href="style.css" rel="stylesheet">
+
+<style>
+
+p {
+		text-align: justify;
+		word-break: break-all;
+		word-wrap: break-all; 
+		word-spacing: 4px;
+		hyphens: auto;
+  		-moz-hyphens: auto;
+  		-webkit-hyphens: auto;
+  		-ms-word-break: break-all;
+		  word-wrap: break-all; 
+	  	-webkit-hyphenate-character: '-';
+}
+
+</style>
 
 <center><fash> Çatal Kaşık </fash></center>
 
