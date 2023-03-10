@@ -2,7 +2,7 @@
 
 <style>
 
-p {
+	p {
 		text-align: justify;
 		word-break: break-all;
 		word-wrap: break-all; 
@@ -13,7 +13,7 @@ p {
   		-ms-word-break: break-all;
 		  word-wrap: break-all; 
 	  	-webkit-hyphenate-character: '-';
-}
+	}
 
 </style>
 
