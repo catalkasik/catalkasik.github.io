@@ -7,7 +7,7 @@ ya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.
 
 ___
 
-[Twemoji tabanlı css](/emoji-css)  
+&#x2600; [Twemoji tabanlı css](/emoji-css)  
 
 **Harita işaretleyiciler**  
 └[ Avrupa Ülkeleri](/euvisited)  
