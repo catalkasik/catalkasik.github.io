@@ -1,9 +1,8 @@
 <link href="style.css" rel="stylesheet">
 
-<fash> Çatal Kaşık </fash>
+<center><fash> Çatal Kaşık </fash>
 
-**Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım kimi GitHub  repositorylerini çatal _(fork)_ladım.**
-
+**Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.**
 ___
 
 [Twemoji tabanlı css](/emoji-css)  
