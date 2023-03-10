@@ -1,7 +1,7 @@
 <style>
 	a {
 		text-decoration: none;
-		color: ;
+		color: hotpink;
 	}
 </style>
 
