@@ -1,5 +1,7 @@
 <link href="style.css" rel="stylesheet">
 
+**GitHub'da silinmesinden korkup kalıcılaştırmaya çalıştığım kimi repositoryleri çatalladım. (fork
+
 [Twemoji tabanlı css](/emoji-css)  
 
 **Harita işaretleyiciler**  
