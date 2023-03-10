@@ -2,7 +2,7 @@
 
 + [Twemoji tabanlı css](/emoji-css)  
 
-**Harita işaretleyiciler**
+**Harita işaretleyiciler**  
 [Avrupa](/euvisited)  
 [Türkiye](/turkeyvisited)  
 
