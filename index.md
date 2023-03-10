@@ -6,7 +6,7 @@
 [Avrupa](/euvisited)
 [Türkiye](/turkeyvisited)  
 
-+ [toolz](/toolz)  
- + [Reklam engelleyicim ne kadar çalışıyor?](/toolz/adblock.html)  
- + [Tarayıcım hangi yazı tiplerini destekliyor?](https://catalkasik.github.io/toolz/fontlist.html)  
-
+**d3ward**  
++ [Reklam engelleyicim ne kadar çalışıyor?](/toolz/adblock.html)  
++ [Tarayıcım hangi yazı tiplerini destekliyor?](/toolz/fontlist.html)  
++ [viewport units](/toolz/units.html)  
