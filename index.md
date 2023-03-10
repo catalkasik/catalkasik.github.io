@@ -2,7 +2,7 @@
 
 <link href="style.css" rel="stylesheet">
 
-<center><fash style="line-height: 1";> Çatal Kaşık </fash></center>
+<center><fash> Çatal Kaşık </fash></center>
 
 **Silinmesinden kaygı duyarak kalıcılaştırmaya çalıştığım araç mahiyetindeki kimi GitHub repositorylerini forkladım.**  
 
