@@ -3,7 +3,7 @@
 + [Twemoji tabanlı css](/emoji-css)  
 
 **Harita işaretleyiciler**
-[Avrupa](/euvisited)
+[Avrupa](/euvisited)  
 [Türkiye](/turkeyvisited)  
 
 **d3ward**  
