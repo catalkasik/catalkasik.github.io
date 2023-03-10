@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-<center><fash line-height: 1;> Çatal Kaşık </fash></center>
+<center><fash style="line-height: 1";> Çatal Kaşık </fash></center>
 
 **Silinmesinden kaygı duyarak kalıcılaş-
 tırmaya çalıştığım araç mahiye-
