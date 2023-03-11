@@ -7,10 +7,10 @@
 
 	body {
 		background-color: #272b31;
-		font-family: 'Quicksand', 'Arial';
 	}
 
 p {
+	font-family: 'Quicksand', 'Arial'; sans-serif;
 	color: WhiteSmoke;
 	text-align: justify;
 	word-break: break-all;
