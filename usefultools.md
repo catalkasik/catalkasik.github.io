@@ -2,7 +2,7 @@
 
 <style>
 	body {
-		background-class: .pattern-zigzag-md;
+		background-id: .pattern-zigzag-md;
 	}
 
 	a {
